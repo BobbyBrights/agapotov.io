@@ -1,0 +1,99 @@
+
+#content-left-side,
+#content-right-side {
+	height: auto;
+	width: 50%;	
+	float:left;
+	display: inline-block;
+}
+#content {
+	height: 800px;
+}
+#timetable {
+	width: 100%;
+	min-height: 100%;
+
+	position: absolute;
+	z-index: 2;
+	display: none;
+	overflow: hidden;
+	background-color: white;
+}
+.button-close {
+	position:absolute;
+	right: 80px;
+	top: 30px;
+}
+#table {
+	margin-left: 32%;
+	text-align: center;
+}
+#table th {
+	padding-left: 15px;
+}
+
+
+html, body, div, span, h1, h2, h3, h4, h5, h6, p,  table, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+}
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2.375em;
+    font-weight: 600;
+    line-height: 2.5em;
+}
+
+h2 {
+    font-size: 1.813em;
+}
+
+h3 {
+    font-size: 1.75em;
+    font-weight: 600;
+    line-height: 2.188em;
+}
+
+h4 {
+    font-size: 1.5em;
+    line-height: 1.875em;
+}
+
+h5 {
+    font-size: 1.5em;
+    font-weight: 600;
+    line-height: 1.875em;
+}
+
+h6 {
+    font-size: 1.25em;
+    line-height: 1.5em;
+}
+
+p {
+    font-size: 1.25em;
+    line-height: 1.25em;
+}
+html {
+    color: rgba(8, 8, 8, 0.8);
+    font-family: "Stratos LC", serif;
+    font-size: 16px;
+}
+.top-container {
+    box-shadow: inset 0px 20px 140px -3px rgba(0, 0, 0, 0.1);
+    padding-bottom: 5%;
+}
+.inner-container {
+    margin: 0 10%;
+}
+.small-container {
+    margin: 0 15%;
+    height: auto;
+}

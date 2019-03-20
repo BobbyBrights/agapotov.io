@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "Stratos-Light-Web";
+  src: url("Stratos-Light-Web.woff2") format("woff2"),url("Stratos-Light-Web.woff") format("woff"),url("Stratos-Light-Web.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal
+}
+
+@font-face {
+  font-family: "Stratos-Light Italic-Web";
+  src: url("Stratos-Light Italic-Web.woff2") format("woff2"),url("Stratos-Light Italic-Web.woff") format("woff"),url("Stratos-Light Italic-Web.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal
+}
+
+@font-face {
+  font-family: "Stratos-Regular-Web";
+  src: url("Stratos-Regular-Web.woff2") format("woff2"),url("Stratos-Regular-Web.woff") format("woff"),url("Stratos-Regular-Web.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal
+}
+
+@font-face {
+  font-family: "Stratos-Medium-Web";
+  src: url("Stratos-Medium-Web.woff2") format("woff2"),url("Stratos-Medium-Web.woff") format("woff"),url("Stratos-Medium-Web.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal
+}
+
+@font-face {
+  font-family: "Stratos-Bold-Web";
+  src: url("Stratos-Bold-Web.woff2") format("woff2"),url("Stratos-Bold-Web.woff") format("woff"),url("Stratos-Bold-Web.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal
+}
+
+@font-face {
+  font-family: "Stratos-Black-Web";
+  src: url("Stratos-Black-Web.woff2") format("woff2"),url("Stratos-Black-Web.woff") format("woff"),url("Stratos-Black-Web.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal
+}
